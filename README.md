@@ -30,7 +30,10 @@ You can upload video in you Google Drive, One Drive, Azure Storage or other stor
 We ask you to let us have the presentation by Wednesday 30 march so we can do some post production and upload to YouTube.
 
 You can record the session with the software you deem most appropriate, camtasia, streamlabs, obs or other. You can show yourself on cam at the bottom right or you can have a session where you don't show yourself on cam.
+
 [Recording Guide](https://github.com/CloudGenVR/HowToMakeStreaming/blob/main/Streamlabs-recording.md)
+
+[Presentation 2 minutes example](https://youtu.be/aEglc4m5lqA)
 
 # Track/User 
 |  Track  |  Email | Password |
