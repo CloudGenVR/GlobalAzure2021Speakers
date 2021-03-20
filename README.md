@@ -40,6 +40,8 @@ You must use this template for recorded session and live session.
 
 [Template](https://github.com/CloudGenVR/GlobalAzure2021Speakers/blob/main/Presentation/GlobalAzure2021_Template.pptx)
 
+[Use this Logo's](https://github.com/CloudGenVR/GlobalAzure2021Speakers/blob/main/Presentation)
+
 # Track/User 
 |  Track  |  Email | Password |
 |---|---|---|
