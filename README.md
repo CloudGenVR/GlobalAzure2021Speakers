@@ -35,6 +35,11 @@ You can record the session with the software you deem most appropriate, camtasia
 
 [Presentation 2 minutes example](https://youtu.be/aEglc4m5lqA)
 
+# Template Presentation
+You must use this template for recorded session and live session.
+
+[Template](https://github.com/CloudGenVR/GlobalAzure2021Speakers/blob/main/Presentation/GlobalAzure2021_Template.pptx)
+
 # Track/User 
 |  Track  |  Email | Password |
 |---|---|---|
