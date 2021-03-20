@@ -1,9 +1,10 @@
 # Global Azure 2021 Speakers Guide
 
-Please fill [this forms](https://forms.office.com/r/8NmxZSg3r7)
+## Please fill [this forms](https://forms.office.com/r/8NmxZSg3r7), thanks a lot.
 
 ## Twitch 
 [Twitch Cloudgen Verona](https://www.twitch.tv/cloudgenverona)
+
 Twitch event will be doing in parallel with the live shows on Friday 16, from 15:00 to 19:00
 Twitch will be an informal live in which participants will be able to ask more detailed questions and we will get to know each speaker better.
 It is not a mandatory appointment but as a community we like to get to know the speakers and their experiences.
