@@ -51,7 +51,17 @@ You must use this template for recorded session and live session.
 | Live 3  | live3@cloudgen.it |  LiveGl0b4l |
 | Live 4 for multi speaker session | live4@cloudgen.it |  LiveGl0b4l |
 
-
 After conference these accont will be destroyed
 
+# Twitch agenda
+|  Hour (UTC + 2)  |  Topic | Speaker 1 | Speaker 2 | Speaker 3 |
+|---|---|---|---|---|
+| 15:00  | AAD B2C, Kafka&Python |  Facundo La Rocca | Francesco Tisiot | |
+| 15:30  | Modernize app, Serverless |  Marco Minerva | Luis Beltran | |
+| 16:00  | Azure Static Apps & Blazor, Bot & LUIS |  Andrea Tosato | Stefano Conzato | |
+| 16:30  | Azure Arc |  Marco Obinu | | |
+| 17:00  | Azure Integration Services |  Steef-Jan Wiggers | | |
+| 17:30  | TBD |  | | |
+| 18:00  | DevOps, MLOps, Azure Data/Integration |  Igor Antonacci - Luca Milan | Davide Bellone | Alberto Acerbis |
+| 18:30  | Azure Synapse |  Marco Zamana | | |
 
