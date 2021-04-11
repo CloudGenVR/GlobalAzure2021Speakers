@@ -63,5 +63,5 @@ After conference these accont will be destroyed
 | 17:00  | Azure Integration Services |  Steef-Jan Wiggers | | |
 | 17:30  | TBD |  | | |
 | 18:00  | DevOps, MLOps, Azure Data/Integration |  Igor Antonacci - Luca Milan | Davide Bellone | Alberto Acerbis |
-| 18:30  | Azure Synapse |  Marco Zamana | | |
+| 18:30  | Azure Synapse, Time series |  Marco Zamana | Marco Parenzan | |
 
