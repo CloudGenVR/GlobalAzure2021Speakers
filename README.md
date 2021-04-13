@@ -59,7 +59,7 @@ After conference these accont will be destroyed
 | 15:00  | AAD B2C, Kafka&Python |  Facundo La Rocca | Francesco Tisiot | |
 | 15:30  | Modernize app, Serverless |  Marco Minerva | Luis Beltran | |
 | 16:00  | Azure Static Apps & Blazor, Bot & LUIS |  Andrea Tosato | Stefano Conzato | |
-| 16:30  | Azure Arc |  Marco Obinu | | |
+| 16:30  | Azure Arc, Azure DevOps e processi aziendali |  Marco Obinu | Gaetano Paternò | |
 | 17:00  | Azure Integration Services |  Steef-Jan Wiggers | | |
 | 17:30  | Azure IoT, Sagas | Riccardo Zamana | Davide Guida | |
 | 18:00  | DevOps, MLOps, Azure Data/Integration |  Igor Antonacci - Luca Milan | Davide Bellone | Alberto Acerbis |
