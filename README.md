@@ -61,7 +61,7 @@ After conference these accont will be destroyed
 | 16:00  | Azure Static Apps & Blazor, Bot & LUIS |  Andrea Tosato | Stefano Conzato | |
 | 16:30  | Azure Arc, Azure DevOps e processi aziendali |  Marco Obinu | Gaetano Paternò | |
 | 17:00  | Azure Integration Services |  Steef-Jan Wiggers | | |
-| 17:30  | Azure IoT, Sagas | Riccardo Zamana | Davide Guida | |
+| 17:30  | Azure IoT, Sagas, GitHub Action & Kubernetes | Riccardo Zamana | Davide Guida | Rob Richardson |
 | 18:00  | DevOps, MLOps, Azure Data/Integration |  Igor Antonacci - Luca Milan | Davide Bellone | Alberto Acerbis |
 | 18:30  | Azure Synapse, Time series |  Marco Zamana | Marco Parenzan | |
 
